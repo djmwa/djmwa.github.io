@@ -1,8 +1,3 @@
----
-title: title
-description: description
----
-
 ## [About Me](about)
 
 ***
