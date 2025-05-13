@@ -1,3 +1,8 @@
+---
+title: Data Analysis Portfolio
+description: Daniel Moser
+---
+
 ## [About Me](about)
 
 ***
