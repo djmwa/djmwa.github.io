@@ -1,7 +1,3 @@
----
-title: Data Analysis Portfolio
----
-
 ## [About Me](about)
 
 ***
