@@ -1,6 +1,4 @@
-# Daniel Moser
-
-### [About Me](about)
+### **[About Me](about)**
 
 ***
 
