@@ -1,1 +1,4 @@
-# djmwa.github.io
+# Daniel Moser
+
+Data analysis projects:  
+- [Influence of Penalty Kicks in Professional Soccer](https://djmwa.github.io/penaltykicks)
